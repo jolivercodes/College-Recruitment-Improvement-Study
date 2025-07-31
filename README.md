@@ -36,4 +36,4 @@ The analysis answers key questions around:
 
 ## Impact
 
-These insights will help CCM better target its recruitment strategies and improve pathways into computing education, especially for women and nonbinary students.
+These insights will help CCM better target its recruitment strategies and improve pathways into computing education.
