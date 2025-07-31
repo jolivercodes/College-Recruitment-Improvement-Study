@@ -1,10 +1,39 @@
 # College Recruitment Improvement Study
- Data Science Programming Assignment
-The CCM Department of Information Technologies seeks to improve its recruitment process and increase the number of individuals in its computing classes and majors. A survey is administered every Fall semester for entry-level computing and computer literacy courses (for non-majors). I have been tasked to perform exploratory data analysis on the provided survey dataset. My analysis will inform the department about which/when/where/why students are taking their classes (as indicated in the survey dataset) so that they can focus their recruiting efforts on prosperous areas, particularly for under-represented groups.
 
-Questions to answer:
+This project explores demographic and motivational trends in computing education at County College of Morris (CCM). Using cleaned survey data from 2021–2023, we aim to help the CCM Department of Information Technologies improve recruitment and retention strategies — especially for underrepresented groups in tech.
 
-1. Looking at the latest survey results (2023) from both the Majors and Non-Majors surveys, what are the gender demographic differences between the Majors and Non-Majors respondents?
-2. Look at the records of just the Computing Majors only as one group (2021-2023). Computing Majors include: Computer Science, IT, Game Dev, Digital Media Technology, Technical Studies, Information Security, Data Analytics and Web Development.  What are the major motivations why computing majors seek a computing degree/certificate?
-3. Looking at the latest survey results (2023) Which age group is most interested in pursuing a computing degree or certificate so you can target people in that age range more?
-4. Looking at the latest survey results (2023) What sources were most popular in the "How did you hear about the County College of Morris" question to find which method is most efficient in outreach of students.
+## Objective
+
+The analysis answers key questions around:
+- Demographics of computing majors vs. non-majors
+- Motivations for enrolling in computing classes
+- Changes in computing interest over time (2021–2023)
+- Trends by gender, program enrollment, and year
+
+## Methods Used
+
+- Python (pandas, matplotlib, seaborn) for analysis and visualization
+- Jupyter Notebook for data cleaning and exploration
+- CSV datasets from student surveys (segmented by year, gender, and major status)
+
+## Key Questions Answered
+
+1. What are the gender demographic differences between Majors and Non-Majors in 2023?
+2. What motivates students in Computing Majors across 2021–2023?
+3. How has interest in computing changed year-to-year?
+4. How do motivations vary by gender identity?
+
+## Files
+
+- Data Analysis and Visualization.ipynb: full notebook with analysis and plots
+- Cleaned survey datasets (.csv): grouped by year, major status, and gender
+
+## Key Insights
+
+- Gender disparities persist in non-major computing interest
+- Motivations to explore computing vary widely by gender identity
+- Student interest in computing courses has shifted over time
+
+## Impact
+
+These insights will help CCM better target its recruitment strategies and improve pathways into computing education, especially for women and nonbinary students.
