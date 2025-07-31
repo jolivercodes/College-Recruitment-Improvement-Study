@@ -5,6 +5,7 @@ This project explores demographic and motivational trends in computing education
 ## Objective
 
 The analysis answers key questions around:
+
 - Demographics of computing majors vs. non-majors
 - Motivations for enrolling in computing classes
 - Changes in computing interest over time (2021–2023)
@@ -30,9 +31,9 @@ The analysis answers key questions around:
 
 ## Key Insights
 
-- Gender disparities persist in non-major computing interest
-- Motivations to explore computing vary widely by gender identity
-- Student interest in computing courses has shifted over time
+- Gender disparities are extremely prevelant among students with Computing Majors![1753965072800](image/README/1753965072800.png)
+- Motivations to explore computing vary widely![1753965043056](image/README/1753965043056.png)
+- Student interest in computing courses has shifted over time![1753965023317](image/README/1753965023317.png)
 
 ## Impact
 
